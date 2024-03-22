@@ -1,8 +1,10 @@
+import MyComponent from "./MyComponent";
 
 function App() {
-
   return (
-    <div></div>
+    <div>
+      <MyComponent />
+    </div>
   )
 }
 
