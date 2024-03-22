@@ -1,0 +1,15 @@
+.greet{
+  font-size: 1.5rem;
+  max-width : 350px;
+
+}
+
+.logIn{
+  background-color: greenyellow;
+  padding: 10px;
+}
+
+.logOut{
+  background-color: red;
+  padding: 10px;
+}
